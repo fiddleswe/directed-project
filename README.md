@@ -1,4 +1,4 @@
-# Robot-Based Teaching Web Application integrated with AI
+# Web application for robotic learning platform
 Under Development 🥀🥀🥀
 
 ## Technologies
