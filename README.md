@@ -3,9 +3,11 @@ Under Development 🥀🥀🥀
 
 ## Technologies
 
+### Frontend
 - ``React``
 - ``TailwindCSS``
 - ``Javascript``
+
 
 ## Features
 Under Development 🥀🥀🥀
