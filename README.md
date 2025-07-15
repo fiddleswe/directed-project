@@ -10,10 +10,10 @@ Under Development 🥀🥀🥀
 ## Features
 Under Development 🥀🥀🥀
 
-## Process
+## Installation
 Under Development 🥀🥀🥀
 
-## Running Project
+## Contribution
 Under Development 🥀🥀🥀
 
 ## Preview
