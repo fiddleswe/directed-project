@@ -8,7 +8,7 @@ const ulClass = "flex items-center justify-start gap-5 text-[14px] font-medium t
 const inputClass = "placeholder-white/60 text-white bg-[#2C2C2C] w-96 h-12 rounded-xl pl-11";
 const searchClass = "text-sm font-medium text-white text-opacity-60";
 
-export default function Nav() {
+export default function nav() {
   return (
     <nav
       className={`${navClass} fixed flex items-center justify-between`}
