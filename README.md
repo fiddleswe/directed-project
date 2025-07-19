@@ -1,5 +1,5 @@
 # Web application for robotic learning platform
-Under Development 🥀
+TBC
 
 ## Technologies
 
@@ -13,13 +13,13 @@ TBC
 
 
 ## Features
-Under Development 🥀
+TBC
 
 ## Installation
-Under Development 🥀
+TBC
 
 ## Contribution
-Under Development 🥀
+TBC
 
 ## Preview
-Under Development 🥀
+TBC
