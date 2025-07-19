@@ -8,6 +8,9 @@ Under Development 🥀
 - ``TailwindCSS``
 - ``Javascript``
 
+### Backend
+TBC
+
 
 ## Features
 Under Development 🥀
