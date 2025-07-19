@@ -10,13 +10,13 @@ Under Development 🥀🥀
 
 
 ## Features
-Under Development 🥀🥀
+Under Development 🥀🥀🥀🥀
 
 ## Installation
-Under Development 🥀🥀
+Under Development 🥀🥀🥀🥀
 
 ## Contribution
-Under Development 🥀🥀
+Under Development 🥀🥀🥀🥀
 
 ## Preview
-Under Development 🥀🥀
+Under Development 🥀🥀🥀🥀
