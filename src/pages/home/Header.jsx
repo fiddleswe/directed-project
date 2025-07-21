@@ -11,7 +11,7 @@ export default function header() {
         <div className={`${profileUser}`}></div>
         <div className={`${subheaderContainer} space-y-1`}>
           <div className="text-[30px]">Shindanai Sudprasert</div>
-          <div>Joined Jan 9, 2025</div>
+          <div>Joined Jan 1, 2025</div>
           <div>Bangkok, Thailand</div>
         </div>
       </div>
