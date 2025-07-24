@@ -1,4 +1,3 @@
-import React from "react";
 import { IoMdSearch } from "react-icons/io";
 import { IoIosArrowDown } from "react-icons/io";
 
