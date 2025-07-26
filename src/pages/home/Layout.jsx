@@ -4,7 +4,7 @@ import Main from "./Main";
 
 export default function HomeLayout() {
   return (
-    <div className="flex flex-col gap-4 pt-[300px]">
+    <div className="flex flex-col gap-4 pt-[100px]">
       <Nav />
       <Header />
       <Main />

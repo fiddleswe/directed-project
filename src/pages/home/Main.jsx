@@ -10,7 +10,7 @@ export default function Main() {
 
       <div>
         <h1 className="ml-32 text-3xl font-bold pt-10">Course progress</h1>
-        <div className="mb-4 ml-32 mt-6 h-[40vh] w-[35%] rounded-xl bg-[#141414]"></div>
+        <div className="mb-4 ml-32 mt-6 h-[50vh] w-[35%] rounded-xl bg-[#141414]"></div>
         <h1></h1>
       </div>
     </main>
